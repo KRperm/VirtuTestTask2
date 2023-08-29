@@ -1,0 +1,12 @@
+{
+  "Insurer": {
+    "FirstName": "Петрищенко",
+    "LastName": "Федор"
+  },
+  "Vehicle": {
+    "Mark": "Volvo",
+    "Model": "XC90"
+  },
+  "DateBegin": "2016-06-06",
+  "DateEnd": "2017-06-05"
+}

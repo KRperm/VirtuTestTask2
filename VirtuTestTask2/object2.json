@@ -1,0 +1,10 @@
+{
+  "InsurerFirstName": "Петрищенко",
+  "InsurerLastName": "Федор",
+  "Vehicle": {
+    "Mark": "Volvo",
+    "Model": "XC90"
+  },
+  "EffectiveDate": "2016-06-06",
+  "ExpirationDate": "2017-06-05"
+}
